@@ -1,0 +1,12 @@
+// Custom base config
+
+$img-path: '~@/assets/img/'; // background-image: img-path('image.jpg');
+$section-max-value: 100; // this will result in a max margin/padding of 100 pixels;
+
+// Nav vars
+
+$nav-z-layers: (
+  overlay: 999,
+  overlay-inner: 10,
+  normal: 5,
+);

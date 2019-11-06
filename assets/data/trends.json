@@ -1,0 +1,74 @@
+[
+  {
+    "armoede": 58.25,
+    "koopkracht": 9.5,
+    "bijstand": 82.5,
+    "inkomen": 59.5
+  },
+  {
+    "armoede": 40.75,
+    "koopkracht": 4.75,
+    "bijstand": 78.25,
+    "inkomen": 57.25
+  },
+  {
+    "armoede": 39.75,
+    "koopkracht": 7,
+    "bijstand": 77.25,
+    "inkomen": 51
+  },
+  {
+    "armoede": 35,
+    "koopkracht": 3,
+    "bijstand": 65.4,
+    "inkomen": 54.8
+  },
+  {
+    "armoede": 21.75,
+    "koopkracht": 5.25,
+    "bijstand": 79.75,
+    "inkomen": 45.75
+  },
+  {
+    "armoede": 36,
+    "koopkracht": 4.75,
+    "bijstand": 69.25,
+    "inkomen": 47
+  },
+  {
+    "armoede": 27.6,
+    "koopkracht": 2.6,
+    "bijstand": 62.6,
+    "inkomen": 40.6
+  },
+  {
+    "armoede": 29.75,
+    "koopkracht": 7.5,
+    "bijstand": 60.5,
+    "inkomen": 48.25
+  },
+  {
+    "armoede": 37.6,
+    "koopkracht": 38.6,
+    "bijstand": 71.6,
+    "inkomen": 59.2
+  },
+  {
+    "armoede": 49.5,
+    "koopkracht": 9.25,
+    "bijstand": 70.25,
+    "inkomen": 43.25
+  },
+  {
+    "armoede": 80,
+    "koopkracht": 9.25,
+    "bijstand": 75.25,
+    "inkomen": 55.5
+  },
+  {
+    "armoede": 61,
+    "koopkracht": 17.4,
+    "bijstand": 65,
+    "inkomen": 54.2
+  }
+]

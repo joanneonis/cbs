@@ -1,0 +1,784 @@
+{
+ "articles": [
+  {
+   "name": "Adem in. Adem Uit.",
+   "url": "https://www.nrc.nl/nieuws/2018/12/28/adem-in-adem-uit-a3127294",
+   "intro": "Kom zitten in kleermakerszit, rug recht, kin een beetje ingetrokken, je schouders en gezicht ontspannen. Adem een paar keer rustig in en uit.",
+   "date": "28 december 2018 opinie"
+  },
+  {
+   "name": "Zijn kinderen slechter af dan hun ouders?",
+   "url": "https://www.nrc.nl/nieuws/2018/12/28/armer-dan-je-ouders-a3127238",
+   "intro": "Nederlanders zijn hun vooruitgangsgeloof kwijtgeraakt. Twee op de drie verwachten dat hun kinderen het financieel minder zullen hebben.",
+   "date": "28 december 2018 achtergrond"
+  },
+  {
+   "name": "Het Friese dorp Eastermar een jaar na de postcodekanjer",
+   "url": "https://www.nrc.nl/nieuws/2018/12/27/als-we-ooit-geld-winnen-gaan-we-dat-delen-a3127149",
+   "intro": "In januari viel de postcodekanjer van 53,9 miljoen in het Friese dorp Eastermar. Sommigen werden rijk, anderen kregen niets.",
+   "date": "27 december 2018 beeldverhaal"
+  },
+  {
+   "name": "Loon of pensioen: vrijwel iedereen gaat er op vooruit",
+   "url": "https://www.nrc.nl/nieuws/2018/12/27/loon-of-pensioen-vrijwel-iedereen-gaat-er-op-vooruit-a3127124",
+   "intro": "Al worden de boodschappen duurder, iedereen gaat er volgens de prognoses op vooruit in 2019. Dankzij hogere lonen en lagere inkomstenbelasting.",
+   "date": "27 december 2018 achtergrond"
+  },
+  {
+   "name": "Filmbezoek en treinreizen worden duurder",
+   "url": "https://www.nrc.nl/nieuws/2018/12/27/filmbezoek-en-treinreizen-worden-duurder-a3127123",
+   "intro": "Januari is de duurste maand, en wie vóór 1 september 66 jaar wordt, gaat er het meest op vooruit. Wat zijn de belangrijkste fiscale veranderingen van 2019?",
+   "date": "27 december 2018 achtergrond"
+  },
+  {
+   "name": "Dirk Wijers: ‘Dit is de laagste waterstand die ik heb meegemaakt’",
+   "url": "https://www.nrc.nl/nieuws/2018/12/21/ze-moeten-er-een-keer-iets-aan-doen-a3126443",
+   "intro": "Door de lage waterstand kon het pontje tussen Brummen en Bronkhorst van Dirk Wijers niet varen. „Ze moeten er een keer iets aan doen.”",
+   "date": "21 december 2018 interview"
+  },
+  {
+   "name": "‘Gevolgen Brexit voor EU veel ernstiger dan voor Britten’",
+   "url": "https://www.nrc.nl/nieuws/2018/12/17/gevolgen-voor-eu-veel-ernstiger-dan-voor-britten-a3060931",
+   "intro": "De Nederlands-Brits-Amerikaanse econoom Willem Buiter ziet het populisme verder aan terrein winnen door groeiende ongelijkheid.",
+   "date": "17 december 2018 interview"
+  },
+  {
+   "name": "Koester de globalisering, maar leer van het verleden",
+   "url": "https://www.nrc.nl/nieuws/2018/12/14/koester-de-globalisering-maar-leer-van-het-verleden-a3060734",
+   "intro": "In 1997 publiceerde de econoom Dani Rodrik zijn beroemde boek Has Globalization Gone Too Far? Hij was zijn tijd ver vooruit.",
+   "date": "14 december 2018 opinie"
+  },
+  {
+   "name": "Emancipatie? Ja, maar snel gaat het niet",
+   "url": "https://www.nrc.nl/nieuws/2018/12/14/emancipatie-ja-maar-snel-gaat-het-niet-a3060662",
+   "intro": "Nederlandse vrouwen zijn langer gaan werken, waardoor hun economische zelfstandigheid stijgt. Vooral jongeren werken meer.",
+   "date": "14 december 2018 nieuwsbericht"
+  },
+  {
+   "name": "Oud-Nissan-topman wacht proces af in onverwarmde isoleercel",
+   "url": "https://www.nrc.nl/nieuws/2018/12/10/voormalig-nissan-topman-in-onverwarmde-isoleercel-a3060150",
+   "intro": "Voormalig Nissan-baas Carlos Ghosn kan een maximale celstraf van tien jaar krijgen, bleek maandag. Zijn arrestatie heeft veel achterdocht opgeroepen.",
+   "date": "10 december 2018 achtergrond"
+  },
+  {
+   "name": "‘Nederlandse economie is wispelturig’",
+   "url": "https://www.nrc.nl/nieuws/2018/12/06/nederlandse-economie-is-wispelturig-a3059793",
+   "intro": "Nu in Europa de groei terugloopt, stelt het IMF dat Nederland extra vatbaar is voor een recessie door de hoge hypotheekschuld.",
+   "date": "6 december 2018 achtergrond"
+  },
+  {
+   "name": "Welke armoedecijfers zijn juist?",
+   "url": "https://www.nrc.nl/nieuws/2018/12/06/welke-armoedecijfers-zijn-juist-a3059746",
+   "intro": "CBS en SCP rapporteren verschillend over armoede, schrijft Teije Brandsma . Dat werkt verwarrend.",
+   "date": "6 december 2018 opinie"
+  },
+  {
+   "name": "Vijf keer exact hetzelfde restaurant – op loopafstand",
+   "url": "https://www.nrc.nl/nieuws/2018/12/06/vijf-keer-exact-hetzelfde-restaurant-op-loopafstand-a3059554",
+   "intro": "Huh? Dat hippe, trendy aangeklede Amsterdamse restaurantje blijkt drie straten verder óók te zitten. En daar nóg een.",
+   "date": "6 december 2018 reportage"
+  },
+  {
+   "name": "‘Een Israëliër vindt echt wel weer een nieuwe baan – wij Palestijnen niet’",
+   "url": "https://www.nrc.nl/nieuws/2018/11/28/een-israelier-vindt-echt-wel-weer-een-nieuwe-baan-wij-palestijnen-niet-a2778846",
+   "intro": "Israëlische bedrijven in bezet gebied zijn een zegen voor hun Palestijnse werknemers en een probleem voor de Palestijnse economie. Europa moet er weinig van hebben.",
+   "date": "28 november 2018 reportage"
+  },
+  {
+   "name": "Met de integratie gaat het goed",
+   "url": "https://www.nrc.nl/nieuws/2018/11/26/met-de-integratie-gaat-het-goed-a2756600",
+   "intro": "De discussie over migratie en integratie mag dan gepolariseerd zijn, in werkelijkheid gaan nieuwkomers steeds meer op de rest van de Nederlanders lijken, schrijft Leo Lucassen .",
+   "date": "26 november 2018 opinie"
+  },
+  {
+   "name": "‘Ik vind mijn werk simpelweg heel leuk’",
+   "url": "https://www.nrc.nl/nieuws/2018/11/26/ik-voel-me-thuis-bij-zweverige-mensen-a2756474",
+   "intro": "Marjolijn van Oijen (56) is therapeut voor mensen die als kind seksueel zijn misbruikt. Ze heeft een eigen praktijk, maar verdient weinig omdat ze deels werd afgekeurd na een…",
+   "date": "26 november 2018 rubriek"
+  },
+  {
+   "name": "Migranten zijn op de terugweg",
+   "url": "https://www.nrc.nl/nieuws/2018/11/23/migranten-zijn-op-de-terugweg-a2756359",
+   "intro": "De plek was Agadez, de prachtige karavaanstad in Niger, het knooppunt van de Sahara. In het opvanghuis van de Internationale Organisatie voor Migratie (IOM) was het een kabaal…",
+   "date": "23 november 2018 opinie"
+  },
+  {
+   "name": "Wat is onze student nog waard?",
+   "url": "https://www.nrc.nl/nieuws/2018/11/23/wat-is-onze-student-nog-waard-a2756201",
+   "intro": "Het hoger onderwijs krijgt minder geld voor méér studenten. “Van alle kanten horen we dat de huidige situatie niet meer houdbaar is,” schrijven Alba van Vliet (ASVA…",
+   "date": "23 november 2018 blogartikel"
+  },
+  {
+   "name": "Mijn eerste vijf jaar in Nederland maakte ik mezelf wijs dat ik geen moeite had met Zwarte Piet",
+   "url": "https://www.nrc.nl/nieuws/2018/11/16/wie-zoet-is-durft-ongezellig-te-zijn-a2755515",
+   "intro": "Het is mijn eerste november in Nederland. Plots zie ik de publieke ruimte veranderen. De veelkleurige herfstbladeren zijn spectaculair, maar het is mijn eerste ontmoeting met…",
+   "date": "16 november 2018 opinie"
+  },
+  {
+   "name": "Meer huishoudens met minder geld in 2017",
+   "url": "https://www.nrc.nl/nieuws/2018/11/11/meer-huishoudens-met-minder-geld-in-2017-a2754641",
+   "intro": "Volgens het CBS komt dit doordat veel Syrische vluchtelingen een verblijfsvergunning kregen, waarvan het merendeel is aangewezen op de bijstand.",
+   "date": "11 november 2018"
+  },
+  {
+   "name": "Minister Dekker: burger krijgt niet meer vanzelfsprekend rechtsbijstand",
+   "url": "https://www.nrc.nl/nieuws/2018/11/09/minister-dekker-burger-krijgt-niet-meer-vanzelfsprekend-rechtsbijstand-a2754666",
+   "intro": "Een gang naar de rechter lost de problemen van mensen onvoldoende op, vindt minister Dekker. Hij wil minder geld voor advocaten en meer voor andere hulpverleners.",
+   "date": "9 november 2018 nieuwsbericht"
+  },
+  {
+   "name": "Je hypotheek meeverhuizen",
+   "url": "https://www.nrc.nl/nieuws/2018/11/09/je-hypotheek-meeverhuizen-a2754654",
+   "intro": "Veel mensen hebben de afgelopen jaren een gunstige hypotheek afgesloten. Als je verhuist, kun je die lage rente dan meenemen?",
+   "date": "9 november 2018 achtergrond"
+  },
+  {
+   "name": "7.500 woningen door het transformeren van bestaande bouw",
+   "url": "https://www.nrc.nl/nieuws/2018/11/09/7-500-woningen-door-het-transformeren-van-bestaande-bouw-a2754633",
+   "intro": "Dat is ongeveer 8 procent van het totaal aantal woningen dat vorig jaar werd toegevoegd aan de woningvoorraad, blijkt uit onderzoek van het CBS.",
+   "date": "9 november 2018"
+  },
+  {
+   "name": "‘We moeten over naar een werkweek van 21 uur’",
+   "url": "https://www.nrc.nl/nieuws/2018/11/08/we-moeten-werk-anders-verdelen-a2754497",
+   "intro": "Minder stress, meer autonomie, minder vervuiling, meer tijd. Volgens auteur Anna Coote moeten we allemaal over naar een kortere werkweek.",
+   "date": "8 november 2018 interview"
+  },
+  {
+   "name": "De oppositie moet op zoek naar nieuwe pijnpunten",
+   "url": "https://www.nrc.nl/nieuws/2018/11/07/de-oppositie-moet-op-zoek-naar-nieuwe-pijnpunten-a2754335",
+   "intro": "Nu de dividendbelasting blijft, verschuift het verzet tegen het kabinet naar andere terreinen, blijkt deze week in de Kamer. De btw-verhoging bijvoorbeeld.",
+   "date": "7 november 2018 achtergrond"
+  },
+  {
+   "name": "Overtuigd ambtenaar ontbeert politiek elan",
+   "url": "https://www.nrc.nl/nieuws/2018/11/04/overtuigd-ambtenaar-ontbeert-politiek-elan-a2753898",
+   "intro": "Deze week verdedigt staatssecretaris van Financiën Menno Snel zijn Belastingplan. De D66’er verkoos de publieke zaak boven de bancaire sector. „Het zit in zijn genen.”",
+   "date": "4 november 2018 profiel"
+  },
+  {
+   "name": "Is dit nieuws?",
+   "url": "https://www.nrc.nl/nieuws/2018/11/03/is-dit-nieuws-2-a2753812",
+   "intro": "De redactie van NRC schrijft dagelijks tientallen nieuwsberichten. Veel onderwerpen waar onze verslaggevers mee aan de slag gaan vallen af, omdat nieuws dat rondgaat niet…",
+   "date": "3 november 2018 slowblog"
+  },
+  {
+   "name": "Sociale minima zagen sinds 2010 als enigen koopkracht groeien",
+   "url": "https://www.nrc.nl/nieuws/2018/10/30/kleinverdieners-zagen-sinds-2010-als-enigen-koopkracht-stijgen-a2753219",
+   "intro": "De rest van de Nederlanders, zowel werkenden als gepensioneerden, kunnen nu minder kopen van hun inkomsten dan acht jaar geleden.",
+   "date": "30 oktober 2018"
+  },
+  {
+   "name": "Bruins en Van Nieuwenhuizen snel op het matje",
+   "url": "https://www.nrc.nl/nieuws/2018/10/30/bruins-en-van-nieuwenhuizen-snel-op-het-matje-a2753220",
+   "intro": "De Haagse Stemming Vandaag houdt de Eerste Kamer haar Algemene Politieke Beschouwingen. Schrijf je in om deze politieke nieuwsbrief per mail te ontvangen.",
+   "date": "30 oktober 2018 rubriek"
+  },
+  {
+   "name": "Koopkracht arm en rijk dichter bij elkaar",
+   "url": "https://www.nrc.nl/nieuws/2018/10/30/nibud-koopkracht-arm-en-rijk-dichter-bij-elkaar-a2753229",
+   "intro": "Werkenden en gepensioneerden met lage inkomens – minimumloon of enkel AOW – hebben sinds 2010 als enigen hun koopkracht zien stijgen.",
+   "date": "30 oktober 2018 achtergrond"
+  },
+  {
+   "name": "’s Nachts werken betaalt meer, daardoor hoef ik maar twee dagen te werken’",
+   "url": "https://www.nrc.nl/nieuws/2018/10/28/ik-ga-niet-voor-een-vaste-baan-a2753026",
+   "intro": "Ferdi Eralp (28) is leidinggevende in een supermarkt en houdt zijn vaste lasten zo laag mogelijk. „’s Nachts werken betaalt meer, daardoor hoef ik maar twee dagen te werken, in…",
+   "date": "28 oktober 2018 rubriek"
+  },
+  {
+   "name": "Italië en de euro als twistappel in Brussel",
+   "url": "https://www.nrc.nl/nieuws/2018/10/26/italie-en-de-euro-als-twistappel-in-brussel-a2752922",
+   "intro": "Met de Italiaanse begroting die Brussel afkeurde, is volgens Ewald Engelen niets mis. Maartje Wijffelaars stelt dat Italië de welvaart van toekomstige generaties op het spel…",
+   "date": "26 oktober 2018 opinie"
+  },
+  {
+   "name": "Wie meet, die weet (eigenlijk niet zoveel)",
+   "url": "https://www.nrc.nl/nieuws/2018/10/25/wie-meet-die-weet-eigenlijk-niet-zoveel-a2752765",
+   "intro": "We zijn geobsedeerd door cijfers. Maar die zijn helemaal niet zo objectief als ze lijken, zegt Sanne Blauw. „We proberen de werkelijkheid te vangen, maar we ver vangen die.”",
+   "date": "25 oktober 2018 achtergrond"
+  },
+  {
+   "name": "‘Je partner negeren kan goed zijn voor arm stel’",
+   "url": "https://www.nrc.nl/nieuws/2018/10/19/je-partner-negeren-kan-goed-zijn-voor-arm-stel-a2680726",
+   "intro": "Verschilt de beste manier van communiceren tussen partners afhankelijk van wat ze te besteden hebben?",
+   "date": "19 oktober 2018 rubriek"
+  },
+  {
+   "name": "Schuldhulp: soms is een budgetcoach voldoende",
+   "url": "https://www.nrc.nl/nieuws/2018/10/19/schuldhulp-soms-is-een-budgetcoach-voldoende-a2673664",
+   "intro": "Steeds meer mensen krijgen een bewindvoerder toegewezen vanwege problematische schulden. De gemeente Tilburg wil daar iets aan doen. Dat blijkt moeilijker dan verwacht.",
+   "date": "19 oktober 2018 achtergrond"
+  },
+  {
+   "name": "Heel Europa komt kijken hoe Mechelse burgemeester het flikt",
+   "url": "https://www.nrc.nl/nieuws/2018/10/18/burgemeester-somers-maakte-van-onveilig-mechelen-een-succesvolle-inclusieve-stad-a2625712",
+   "intro": "Bart Somers werd vorig jaar uitgeroepen tot ‘beste burgemeester van de wereld’. Zondag werd hij met een massa voorkeursstemmen herkozen in Mechelen. Wat is zijn geheim?",
+   "date": "18 oktober 2018 interview"
+  },
+  {
+   "name": "Italië neemt voorschot op ‘ander Europa’",
+   "url": "https://www.nrc.nl/nieuws/2018/10/16/italie-neemt-voorschot-op-ander-europa-a2614133",
+   "intro": "Groeiherstel gaat boven krappe EU-normen, vinden de Italiaanse populisten. Ze draaien hervormingen terug en weten zelf wel hoe ze de economie moeten stimuleren.",
+   "date": "16 oktober 2018 analyse"
+  },
+  {
+   "name": "Wie profiteren er van het overeind houden van de dividendbelasting?",
+   "url": "https://www.nrc.nl/nieuws/2018/10/16/wie-profiteren-er-van-het-overeind-houden-van-de-dividendbelasting-a2608874",
+   "intro": "Is het vestigingsklimaat gebaat bij een lagere vennootschapsbelasting? En drie andere vragen over het niet-afschaffen van de dividendbelasting.",
+   "date": "16 oktober 2018 achtergrond"
+  },
+  {
+   "name": "Hoe lap je het regeerakkoord op?",
+   "url": "https://www.nrc.nl/nieuws/2018/10/15/hoe-lap-je-het-regeerakkoord-op-a2570299",
+   "intro": "Lastenverlichting dus, met 1,9 miljard. Niet voor buitenlandse firma’s maar voor het eigen mkb. Daar is niemand tegen. Toch?",
+   "date": "15 oktober 2018 achtergrond"
+  },
+  {
+   "name": "Startersdilemma: nu een huis kopen of niet?",
+   "url": "https://www.nrc.nl/nieuws/2018/10/11/startersdilemma-nu-een-huis-kopen-of-niet-a2417633",
+   "intro": "In grote steden schieten de huizenprijzen tot wel 30 procent boven de prijsniveaus van vlak voor de crisis. Zitten we op de top, en is het dan wel slim om nu te kopen?",
+   "date": "11 oktober 2018 achtergrond"
+  },
+  {
+   "name": "Kom je uit Presikhaaf én heb je een migrantenafkomst, ‘dan sta je 1-0 achter’",
+   "url": "https://www.nrc.nl/nieuws/2018/10/05/kom-je-uit-presikhaaf-en-heb-je-een-migrantenafkomst-dan-sta-je-1-0-achter-a2254331",
+   "intro": "In Arnhem werden vorige week terreurverdachten gearresteerd. De wijk Presikhaaf is beslist geen terreurwijk, zeggen bewoners. Maar wat is het dan wél voor wijk?",
+   "date": "5 oktober 2018 beeldverhaal"
+  },
+  {
+   "name": "‘Voor mij was het perfecte plaatje ook een keurslijf’",
+   "url": "https://www.nrc.nl/nieuws/2018/10/05/voor-mij-was-het-perfecte-plaatje-ook-een-keurslijf-a2253998",
+   "intro": "Anna van Praag (51) had met haar man en drie dochters een nomadenbestaan. Ze schreef vrolijke blogs over de reizen die ze maakten door Afrika en het Midden-Oosten.",
+   "date": "5 oktober 2018 interview"
+  },
+  {
+   "name": "Hier geeft Rotterdam het geld aan uit",
+   "url": "https://www.nrc.nl/nieuws/2018/10/05/hier-geeft-rotterdam-het-geld-aan-uit-a2139420",
+   "intro": "De eerste begroting van het nieuwe college toont de keuzes: geld voor energie, wonen en werk. Op subsidie wordt verkapt bezuinigd.",
+   "date": "5 oktober 2018 nieuwsbericht"
+  },
+  {
+   "name": "Studenten wonen vaker thuis, mede door afschaffing basisbeurs",
+   "url": "https://www.nrc.nl/nieuws/2018/10/03/landelijke-monitor-studentenhuisvesting-studenten-wonen-vaker-thuis-mede-door-afschaffing-basisbeurs-a2152605",
+   "intro": "Vanwege de afschaffing van de basisbeurs en het gebrek aan geschikte woonruimte blijven studenten vaker thuis wonen.",
+   "date": "3 oktober 2018 nieuwsbericht"
+  },
+  {
+   "name": "‘Het ene jaar kan ik zwaar onder bijstandsniveau verdienen en het volgende jaar weer modaal’",
+   "url": "https://www.nrc.nl/nieuws/2018/10/02/domenique-himmelsbach-de-vries-35-beeldend-kunstenaar-a2095956",
+   "intro": "Het aantal werkenden dat in armoede leeft, is in dertien jaar tijd anderhalf keer zo groot geworden. Desondanks zijn ze een blinde vlek voor gemeenten.",
+   "date": "2 oktober 2018 interview"
+  },
+  {
+   "name": "‘De vaste lasten zijn zo hoog in Nederland. Dat is in Irak anders’",
+   "url": "https://www.nrc.nl/nieuws/2018/10/02/ali-hussein-34-automonteur-a2095955",
+   "intro": "Het aantal werkenden dat in armoede leeft, is in dertien jaar tijd anderhalf keer zo groot geworden. Desondanks zijn ze een blinde vlek voor gemeenten.",
+   "date": "2 oktober 2018 interview"
+  },
+  {
+   "name": "Arme werkenden staan niet op de radar",
+   "url": "https://www.nrc.nl/nieuws/2018/10/02/arme-werkenden-staan-niet-op-de-radar-a2095935",
+   "intro": "Het aantal werkenden dat in armoede leeft, is in dertien jaar tijd anderhalf keer zo groot geworden. Desondanks zijn ze een blinde vlek voor gemeenten.",
+   "date": "2 oktober 2018 achtergrond"
+  },
+  {
+   "name": "Begroting is een risico voor de eurozone",
+   "url": "https://www.nrc.nl/nieuws/2018/10/01/italie-begroting-is-een-risico-voor-de-eurozone-a2040591",
+   "intro": "Het werd door de Italiaanse coalitie gebracht als een overwinning, maar in wezen leed Italië vorige week een zoveelste nederlaag.",
+   "date": "1 oktober 2018 commentaar"
+  },
+  {
+   "name": "‘Een ton sparen bleek haalbaar’",
+   "url": "https://www.nrc.nl/nieuws/2018/09/29/een-ton-sparenbleek-een-haalbaar-doel-a1933580",
+   "intro": "Radiopresentator Kasper Kooij (35) en blogger Renée Lamboo (33) verhuisden naar Flevoland om goedkoper te wonen. Ze werken minder en hebben meer tijd met hun kinderen.",
+   "date": "29 september 2018 rubriek"
+  },
+  {
+   "name": "‘Ik wil niet aan de ketting van Rutte III’",
+   "url": "https://www.nrc.nl/nieuws/2018/09/28/ik-wil-niet-aan-de-ketting-van-rutte-iii-a1931464",
+   "intro": "Er was ongekend felle kritiek op het plan van de VVD voor wijken met veel problemen: te dwingend, niet liberaal.",
+   "date": "28 september 2018 interview"
+  },
+  {
+   "name": "Waarom de energierekening omhoog gaat",
+   "url": "https://www.nrc.nl/nieuws/2018/09/26/waarom-de-energierekening-omhoog-gaat-a1810751",
+   "intro": "Niet alleen stijgende belastingen maken de energienota hoger. Ook de prijs van stroom en gas zou wel eens kunnen stijgen.",
+   "date": "26 september 2018 achtergrond"
+  },
+  {
+   "name": "Dekker overweegt drastische hervorming rechtsbijstand",
+   "url": "https://www.nrc.nl/nieuws/2018/09/24/dekker-overweegt-drastische-hervorming-rechtsbijstand-a1758421",
+   "intro": "Mensen gaan meer betalen voor rechtshulp en moeten meer zelf regelen, zo wil het ministerie.",
+   "date": "24 september 2018 nieuwsbericht"
+  },
+  {
+   "name": "Huis opeten? Zo voorkom je dat",
+   "url": "https://www.nrc.nl/nieuws/2018/09/21/huis-opeten-zo-voorkom-je-dat-a1626119",
+   "intro": "Veel mensen vrezen dat ze hun eigen huis moeten ‘opeten’ als ze in een zorginstelling gaan wonen: eerst je vermogen opmaken. Klopt dat wel?",
+   "date": "21 september 2018 rubriek"
+  },
+  {
+   "name": "Teruglezen: dag twee van de Algemene Politieke Beschouwingen",
+   "url": "https://www.nrc.nl/nieuws/2018/09/21/rutte-antwoordt-kamer-op-dag-2-algemene-beschouwingen-a1626043",
+   "intro": "Premier Rutte beantwoordde vrijdag de vragen van de Tweede Kamer over de kabinetsplannen voor volgend jaar en gaat met de fractievoorzitters van coalitie en oppositiepartijen in…",
+   "date": "21 september 2018 liveblog"
+  },
+  {
+   "name": "‘Nederland heeft in Europa na Luxemburg de eerlijkste inkomensverdeling’",
+   "url": "https://www.nrc.nl/nieuws/2018/09/20/nederland-heeft-in-europa-na-luxemburg-de-eerlijkste-inkomensverdeling-a1617201",
+   "intro": "In een debat met GroenLinks-leider Jesse Klaver stelde VVD-fractievoorzitter Klaas Dijkhoff dat Nederland na Luxemburg de eerlijkste inkomensverdeling van Europa heeft.",
+   "date": "20 september 2018 rubriek"
+  },
+  {
+   "name": "Dit zijn onze factchecks van de Algemene Beschouwingen",
+   "url": "https://www.nrc.nl/nieuws/2018/09/19/dit-zijn-onze-factchecks-van-de-algemene-beschouwingen-a1617199",
+   "intro": "Tijdens dag 1 van de Algemene Politieke Beschouwingen checkten NRC-redacteuren live stellingen van de fractievoorzitters.",
+   "date": "19 september 2018"
+  },
+  {
+   "name": "Teruglezen: de eerste dag van de Algemene Politieke Beschouwingen",
+   "url": "https://www.nrc.nl/nieuws/2018/09/19/kamer-bespreekt-kabinetsplannen-in-algemene-beschouwingen-a1617015",
+   "intro": "Woensdag bespreekt de Tweede Kamer de kabinetsplannen uit de Miljoenennota op dag 1 van de Algemene Politieke Beschouwingen. De dertien fractievoorzitters gaan met elkaar in debat.",
+   "date": "19 september 2018 liveblog"
+  },
+  {
+   "name": "Kabinet: bijna iedereen gaat erop vooruit",
+   "url": "https://www.nrc.nl/nieuws/2018/09/19/kabinet-bijna-iedereen-gaat-erop-vooruit-a1616984",
+   "intro": "Meer mensen moeten concreet merken dat het goed gaat, zei de koning in de Troonrede. En als de voorspellingen uitkomen, ziet het er goed uit: zo’n 96 procent van de huishoudens…",
+   "date": "19 september 2018 nieuwsbericht"
+  },
+  {
+   "name": "Dit zijn de opvallendste punten uit de Miljoenennota",
+   "url": "https://www.nrc.nl/nieuws/2018/09/18/bijna-iedereen-mag-meer-uitgeven-a1616898",
+   "intro": "Meer geld voor de koning, voor Defensie, de politie en de leraren. De ministers hebben geld te besteden en maken plannen voor uitgaven. Meer, meer, meer?",
+   "date": "18 september 2018 achtergrond"
+  },
+  {
+   "name": "Dit zei de koning in de Troonrede",
+   "url": "https://www.nrc.nl/nieuws/2018/09/18/leden-van-de-staten-generaal-2-a1616956",
+   "intro": "De Koning sprak de Staten-Generaal toe. Redacteur Mark Kranenburg geeft verklarend commentaar.",
+   "date": "18 september 2018 analyse"
+  },
+  {
+   "name": "Mensen met inkomen boven minimumloon profiteren het meest",
+   "url": "https://www.nrc.nl/nieuws/2018/09/18/mensen-met-inkomen-boven-minimumloon-profiteren-het-meest-a1616911",
+   "intro": "Als de voorspellingen uitkomen, gaat 96 procent van de huishoudens er op vooruit. Maar voorspellingen blijven voorspellingen.",
+   "date": "18 september 2018 nieuwsbericht"
+  },
+  {
+   "name": "Teruglezen: Hoekstra presenteert eerste begroting in Tweede Kamer",
+   "url": "https://www.nrc.nl/nieuws/2018/09/18/volg-hier-het-nieuws-over-prinsjesdag-2018-a1616863",
+   "intro": "In dit liveblog volgde de parlementaire redactie van NRC de hele dag al het nieuws rond Prinsjesdag.",
+   "date": "18 september 2018 slowblog"
+  },
+  {
+   "name": "De 6 problemen die niet aan bod komen op Prinsjesdag",
+   "url": "https://www.nrc.nl/nieuws/2018/09/17/de-6-problemen-die-niet-aan-bod-komen-a1616842",
+   "intro": "Welke thema’s ontbreken in het debat over de Miljoenennota? Wetenschappers over de zes belangrijkste vraagstukken die in de stortvloed aan plannen worden vergeten.",
+   "date": "17 september 2018 achtergrond"
+  },
+  {
+   "name": "Hebben de Britten spijt van hun keuze? En elf andere vragen over de Brexit",
+   "url": "https://www.nrc.nl/nieuws/2018/09/17/hebben-de-britten-spijt-van-hun-keuze-en-elf-andere-vragen-over-de-brexit-a1616764",
+   "intro": "De harde Brexit-deadline van 29 maart 2019 nadert en er is nu een voorlopige overeenkomst tussen het VK en de EU.",
+   "date": "17 september 2018 achtergrond"
+  },
+  {
+   "name": "Het antwoord op schulden: méér schulden",
+   "url": "https://www.nrc.nl/nieuws/2018/09/14/het-antwoord-op-schulden-meer-schulden-a1616572",
+   "intro": "Op schulden kan je voorspoed bouwen. Maar in 2008 liep het uit de hand. De aard van de schulden is intussen veranderd, de omvang juist zorgelijk gegroeid.",
+   "date": "14 september 2018 analyse"
+  },
+  {
+   "name": "Niemand had ooit iets van de wietplantages gemerkt",
+   "url": "https://www.nrc.nl/nieuws/2018/09/05/niemand-had-ooit-iets-van-de-wietplantages-gemerkt-a1615306",
+   "intro": "Met een grote politieactie in Almelo is volgens de burgemeester een crimineel netwerk een „belangrijke slag” toegebracht.",
+   "date": "5 september 2018 reportage"
+  },
+  {
+   "name": "CBS: Huurprijzen stijgen sneller dan vorig jaar",
+   "url": "https://www.nrc.nl/nieuws/2018/09/04/cbs-huurprijzen-stijgen-sneller-dan-vorig-jaar-a1615295",
+   "intro": "De huren van woningen van sociale huurders stegen met 3,3 procent het hardst, meldt het CBS.",
+   "date": "4 september 2018"
+  },
+  {
+   "name": "‘Mijn bankrekening ziet er niet florissant uit’",
+   "url": "https://www.nrc.nl/nieuws/2018/09/03/mijn-bankrekening-ziet-er-niet-florissant-uit-a1615024",
+   "intro": "Toen hij voor een bank werkte verdiende Lucas Hirsch (43) uit Haarlem „krankzinnig veel”, nu leeft hij als dichter onder de armoedegrens.",
+   "date": "3 september 2018 rubriek"
+  },
+  {
+   "name": "Geld lenen voor een luxer leven",
+   "url": "https://www.nrc.nl/nieuws/2018/08/31/geld-lenen-voor-een-luxer-leven-a1614966",
+   "intro": "Meer dan de helft van de studenten gebruikt geleend geld om te sparen. Anderen hebben graag wat extra geld om leuke dingen te doen.",
+   "date": "31 augustus 2018 achtergrond"
+  },
+  {
+   "name": "Help je (klein)kind aan een koophuis, schenk erfenis alvast",
+   "url": "https://www.nrc.nl/nieuws/2018/08/20/help-je-kind-aan-een-koophuis-schenk-die-erfenis-alvast-a1613584",
+   "intro": "Een studieschuld door de vingers zien is niet zo sympathiek als het lijkt, schrijft Leontine Treur . Beter als (groot)ouders de starter helpen bij de aankoop van een huis.",
+   "date": "20 augustus 2018 opinie"
+  },
+  {
+   "name": "Een poging om links te rédden",
+   "url": "https://www.nrc.nl/nieuws/2018/08/17/een-poging-om-links-te-redden-a1613430",
+   "intro": "De crisis van links is internationaal. In Europa en de VS neemt de roep om een links dat breekt met economisch en cultureel liberalisme toe.",
+   "date": "17 augustus 2018 beeldverhaal"
+  },
+  {
+   "name": "‘Verhoging laagste btw-tarief kost de Nederlander gemiddeld 300 euro’",
+   "url": "https://www.nrc.nl/nieuws/2018/08/14/onderzoek-verhoging-laagste-btw-tarief-kost-de-nederlander-gemiddeld-300-euro-a1612992",
+   "intro": "Nederlandse huishoudens zijn volgend jaar gemiddeld zo’n 300 euro meer kwijt door de aanstaande btw-verhoging, hebben economen van de ING berekend.",
+   "date": "14 augustus 2018 nieuwsbericht"
+  },
+  {
+   "name": "‘Btw-verhoging kost huishoudens 300 euro, maar koopkracht verbetert toch’",
+   "url": "https://www.nrc.nl/nieuws/2018/08/13/btw-verhoging-kost-huishoudens-300-euro-maar-koopkracht-verbetert-toch-a1612944",
+   "intro": "ING verwacht dat hoge en lage inkomens evenveel merken van de verhoging van de btw van zes naar negen procent.",
+   "date": "13 augustus 2018"
+  },
+  {
+   "name": "Waarom bedrijven eigen aandelen inkopen",
+   "url": "https://www.nrc.nl/nieuws/2018/08/12/waarom-bedrijven-hun-eigen-aandelen-inkopen-a1612882",
+   "intro": "Het bedrag dat Amerikaanse bedrijven dit jaar gaan uitgeven aan het inkopen van eigen aandelen is 46 procent hoger dan vorig jaar. Waarom? En is het verstandig?",
+   "date": "12 augustus 2018 rubriek"
+  },
+  {
+   "name": "Koers veilinghuis Sotheby’s daalt na tegenvallende winst",
+   "url": "https://www.nrc.nl/nieuws/2018/08/07/koers-veilinghuis-sothebys-daalt-na-tegenvallende-winst-a1612363",
+   "intro": "De tegenvallende verkoop van twee topkunstwerken heeft de resultaten van Sotheby’s flink gedrukt. Verkopers kunnen steeds betere voorwaarden eisen van het veilinghuis.",
+   "date": "7 augustus 2018 nieuwsbericht"
+  },
+  {
+   "name": "‘Moeten vrouwen dan ook later met pensioen?’",
+   "url": "https://www.nrc.nl/nieuws/2018/07/31/moeten-vrouwen-dan-ook-later-met-pensioen-a1611737",
+   "intro": "Aan het plan om de AOW-leeftijd te koppelen aan opleidingsniveau kleven nogal wat haken en ogen. ‘Hoever trek je dit door?’",
+   "date": "31 juli 2018 achtergrond"
+  },
+  {
+   "name": "‘Ons budget was niet toereikend. We zijn niet klaar voor weer een orkaan’",
+   "url": "https://www.nrc.nl/nieuws/2018/07/17/ons-budget-was-niet-toereikend-we-zijn-niet-klaar-voor-weer-een-orkaan-a1610247",
+   "intro": "Sint Maarten kreeg afgelopen week via de Wereldbank de eerste 47 miljoen euro aan Nederlands hulpgeld voor opbouw na orkaan Irma.",
+   "date": "17 juli 2018 nieuwsbericht"
+  },
+  {
+   "name": "Oud-wethouder Herrema: ‘Iedereen deed mee aan het verhullen van de werkelijkheid’",
+   "url": "https://www.nrc.nl/nieuws/2018/07/13/iedereen-deed-mee-aan-het-verhullen-van-de-werkelijkheid-a1609967",
+   "intro": "Tjeerd Herrema, voormalig wethouder verkeer van Amsterdam, was de enige bestuurder die aftrad vanwege problemen met de Noord/Zuidlijn. „Ik was de boksbal.”",
+   "date": "13 juli 2018 interview"
+  },
+  {
+   "name": "Oud-politici vinden steeds moeilijker nieuw werk",
+   "url": "https://www.nrc.nl/nieuws/2018/07/06/oud-politici-vinden-steeds-moeilijker-nieuw-werk-a1609167",
+   "intro": "Al jaren blijkt het voor oud-politici lastig om na hun carrière aan het Binnenhof weer aan een baan te komen.",
+   "date": "6 juli 2018"
+  },
+  {
+   "name": "Meer macht aan de arbeider! Maar hoe?",
+   "url": "https://www.nrc.nl/nieuws/2018/07/06/meer-macht-aan-de-arbeider-maar-hoe-a1609212",
+   "intro": "Lodewijk Asscher (PvdA) noemde zijn nieuwe regels voor ontslag en flexwerk “een raspaard dat nog decennialang door onze arbeidsmarkt gaat huppelen.” Drie jaar later is het…",
+   "date": "6 juli 2018 column"
+  },
+  {
+   "name": "De euro en defensie zijn elkaars tegenpool",
+   "url": "https://www.nrc.nl/nieuws/2018/07/05/de-euro-en-defensie-zijn-elkaars-tegenpool-a1608966",
+   "intro": "Of Europa voortaan zijn eigen broek wil ophouden bij de landsverdediging. Dat is de boodschap die de Amerikaanse president Trump te pas en te onpas zijn Europese vrienden onder…",
+   "date": "5 juli 2018 column"
+  },
+  {
+   "name": "Bekijk het verschil tussen 60 of 11.000 dollar per dag verdienen",
+   "url": "https://www.nrc.nl/nieuws/2018/07/02/bekijk-het-verschil-tussen-60-of-11-000-dollar-per-dag-verdienen-a1608640",
+   "intro": "De 23-jarige Ricky, een van de jongste miljonairs ter wereld, verdient zijn geld met aandelenhandel. De 21-jarige Azariah bezorgt maaltijden.",
+   "date": "2 juli 2018"
+  },
+  {
+   "name": "‘Ik weet niks, ik wil niks, ik moet niks’",
+   "url": "https://www.nrc.nl/nieuws/2018/06/28/ik-weet-niks-ik-wil-niks-ik-moet-niks-a1608255",
+   "intro": "In deze rubriek elk weekeinde een necrologie van iemand die recent is overleden. Schrijver en oud-provo Duco van Weerlee (1939-2018) wilde gehoord worden én met rust gelaten.",
+   "date": "28 juni 2018 necrologie"
+  },
+  {
+   "name": "Brieven 25/6/2018",
+   "url": "https://www.nrc.nl/nieuws/2018/06/25/brieven-2562018-a1607771",
+   "intro": "Eind jaren 70, begin jaren 80 studeerde ik wiskunde in Delft. Informatica was toen nog een afstudeerrichting binnen de wiskunde.",
+   "date": "25 juni 2018 brief"
+  },
+  {
+   "name": "‘Ik heb de veiligheid van kille cijfers nodig’",
+   "url": "https://www.nrc.nl/nieuws/2018/06/22/ik-heb-de-veiligheid-van-kille-cijfers-nodig-a1607656",
+   "intro": "Jan Latten signaleerde voor het CBS decennialang problemen in de Nederlandse samenleving. Maar je moet hem niet in de Schilderswijk zetten.",
+   "date": "22 juni 2018 interview"
+  },
+  {
+   "name": "Arm zijn in een van de rijkste landen ter wereld",
+   "url": "https://www.nrc.nl/nieuws/2018/06/15/arm-zijn-in-een-van-de-rijkste-landen-ter-wereld-a1606786",
+   "intro": "In Nederland hoeft niemand van de honger te sterven. Toch zijn zoveel Nederlanders arm dat je hele steden met hen zou kunnen bevolken. Wat betekent armoede in Nederland?",
+   "date": "15 juni 2018 achtergrond"
+  },
+  {
+   "name": "Zo proberen gemeenten armoede tegen te gaan",
+   "url": "https://www.nrc.nl/nieuws/2018/06/15/zo-proberen-gemeenten-armoede-tegen-te-gaan-a1606784",
+   "intro": "Het bestrijden van armoede is vooral een taak van de gemeente. Zij hebben allemaal een andere methode: van het helpen van kinderen tot het op tijd signaleren van stress.",
+   "date": "15 juni 2018 achtergrond"
+  },
+  {
+   "name": "Als het geldgebrek je niet nekt, dan wel de stress",
+   "url": "https://www.nrc.nl/nieuws/2018/06/14/als-het-geldgebrek-je-niet-nekt-dan-wel-de-stress-a1606609",
+   "intro": "Armoede is een grote risicofactor voor gezondheid; zeer rijke mensen leven bijna 7,5 jaar langer dan zeer arme. Zwaar werk, geldgebrek en chronische stress eisen hun tol.",
+   "date": "14 juni 2018 achtergrond"
+  },
+  {
+   "name": "Gemeenten: maak toeslagen simpeler",
+   "url": "https://www.nrc.nl/nieuws/2018/06/14/brief-gemeenten-maak-toeslagen-simpeler-a1606571",
+   "intro": "Het huidige, ingewikkelde stelsel werkt het ontstaan van schulden soms juist in de hand, schrijven gemeenten, sociale diensten en drie andere organisaties.",
+   "date": "14 juni 2018 nieuwsbericht"
+  },
+  {
+   "name": "Studie: basisinkomen zorgt juist voor meer armoede",
+   "url": "https://www.nrc.nl/nieuws/2018/06/12/studie-basisinkomen-zorgt-juist-voor-meer-armoede-a1606357",
+   "intro": "Een basisinkomen voor iedereen zou in Nederland averechts werken. De meeste werkende burgers gaan er dan op achteruit.",
+   "date": "12 juni 2018 nieuwsbericht"
+  },
+  {
+   "name": "Zonder arbeidsmigranten worden tomaten niet geplukt",
+   "url": "https://www.nrc.nl/nieuws/2018/06/11/zonder-arbeidsmigranten-worden-tomaten-niet-geplukt-a1606162",
+   "intro": "Zij doen het werk dat Nederlanders niet willen doen: arbeidsmigranten uit Centraal- en Oost-Europa. Hun bijdrage is groot.",
+   "date": "11 juni 2018 nieuwsbericht"
+  },
+  {
+   "name": "Belgen verrichten 13 arrestaties voor matchfixing tennis",
+   "url": "https://www.nrc.nl/nieuws/2018/06/05/belgen-verrichten-13-arrestaties-voor-matchfixing-tennis-a1605448",
+   "intro": "Een Armeens-Belgische bende zou spelers hebben omgekocht in de lagere regionen van het proftennis.",
+   "date": "5 juni 2018"
+  },
+  {
+   "name": "‘Afgescheept’ met een ‘flutbedrag’",
+   "url": "https://www.nrc.nl/nieuws/2018/06/04/afgescheept-met-een-flutbedrag-a1605414",
+   "intro": "Oud-defensiepersoneel dat met het giftige chroom-6 werkte, is blij met de excuses van het ministerie, maar boos over de schaderegeling.",
+   "date": "4 juni 2018 achtergrond"
+  },
+  {
+   "name": "Onrust onder expats om portemonnee",
+   "url": "https://www.nrc.nl/nieuws/2018/05/31/onrust-onder-expats-om-portemonnee-a1604972",
+   "intro": "Tienduizenden expats richten hun pijlen op Rutte in een campagne tegen de tussentijdse inperking van hun belastingvoordelen.",
+   "date": "31 mei 2018 achtergrond"
+  },
+  {
+   "name": "Voor het vakantiegeld werk je óók hard",
+   "url": "https://www.nrc.nl/nieuws/2018/05/30/voor-het-vakantiegeld-werk-je-ook-hard-a1604792",
+   "intro": "Maak een begroting of spaar het op: zo rationeel zijn we zelden als het ons vakantiegeld betreft. Hoe komt dat toch?",
+   "date": "30 mei 2018 achtergrond"
+  },
+  {
+   "name": "Olie zit weer in de achtbaan omhoog",
+   "url": "https://www.nrc.nl/nieuws/2018/05/25/olie-zit-weer-in-de-achtbaan-omhoog-a1604299",
+   "intro": "De olieprijs is hard omhoog geschoten. En ondanks de opmars van duurzame energie, werkt dat door in vrijwel de hele economie.",
+   "date": "25 mei 2018 nieuwsbericht"
+  },
+  {
+   "name": "Een welkome partner voor het bruto binnenlands product",
+   "url": "https://www.nrc.nl/nieuws/2018/05/17/brede-welvaart-een-welkome-partner-voor-het-bruto-binnenlands-product-a1603399",
+   "intro": "Het blijft goed gaan met de Nederlandse economie: dinsdag rapporteerde het Centraal Bureau voor de Statistiek (CBS) dat het volume van het bruto binnenlands product (bbp) in het…",
+   "date": "17 mei 2018 commentaar"
+  },
+  {
+   "name": "‘Vroeger was het spannend om naar modeshows te gaan’",
+   "url": "https://www.nrc.nl/nieuws/2018/05/16/beroemde-designerboetiek-stopt-ermee-wij-waren-niet-gezellig-a1603214",
+   "intro": "Na 27 jaar stopt Gerda van Ravenstein met haar designerboetiek. „Het is al een tijdje geleden dat ik écht enthousiast ben geweest.",
+   "date": "16 mei 2018 interview"
+  },
+  {
+   "name": "De nachtdienst is voor geen enkele generatie leuk",
+   "url": "https://www.nrc.nl/nieuws/2018/05/15/de-nachtdienst-is-voor-geen-enkele-generatie-leuk-a1603087",
+   "intro": "Academische ziekenhuizen willen jongere werknemers ontzien: minder nachtdiensten als ze een gezin gaan opbouwen. Maar wie is dan de klos?",
+   "date": "15 mei 2018 nieuwsbericht"
+  },
+  {
+   "name": "Daar is de drone weer. Rennen!",
+   "url": "https://www.nrc.nl/nieuws/2018/05/15/daar-is-de-drone-weer-rennen-a1603073",
+   "intro": "Na de zestig doden van maandag vielen er dinsdag twee doden in Gaza. De ziekenhuizen puilen uit met gewonden.",
+   "date": "15 mei 2018 reportage"
+  },
+  {
+   "name": "Volkert van der G: gesprek met reclassering zinloos",
+   "url": "https://www.nrc.nl/nieuws/2018/05/15/volkert-van-der-g-gesprek-met-reclassering-zinloos-a1603051",
+   "intro": "Volkert van der G. wil emigreren. Daarom vraagt de moordenaar van Pim Fortuyn aan de rechter te worden bevrijd van reclasseringsgesprekken.",
+   "date": "15 mei 2018 achtergrond"
+  },
+  {
+   "name": "In de war of een terrorist?",
+   "url": "https://www.nrc.nl/nieuws/2018/05/08/in-de-war-of-een-terrorist-a1602330",
+   "intro": "Het onderscheid tussen verwardheid en radicalisering is niet altijd duidelijk bij geweldplegers. „De vraag is wat overheerst.”",
+   "date": "8 mei 2018 achtergrond"
+  },
+  {
+   "name": "Amsterdam gewaarschuwd voor belager Joods restaurant",
+   "url": "https://www.nrc.nl/nieuws/2018/05/08/amsterdam-gewaarschuwd-voor-belager-joods-restaurant-a1602345",
+   "intro": "Van de man die een Joods restaurant aanviel, was al eerder bekend dat hij radicaliseerde. De gemeente schatte het anders in.",
+   "date": "8 mei 2018 nieuwsbericht"
+  },
+  {
+   "name": "Wijt niet alles aan de babyboomer",
+   "url": "https://www.nrc.nl/nieuws/2018/05/07/wijt-niet-alles-aan-de-babyboomer-a1602174",
+   "intro": "Economische vooroordelen tegen babyboomers zijn er genoeg. Maar ze kloppen lang niet allemaal.",
+   "date": "7 mei 2018 analyse"
+  },
+  {
+   "name": "Het goede voorbeeld komt altijd uit Scandinavië",
+   "url": "https://www.nrc.nl/nieuws/2018/05/04/het-goede-voorbeeld-komt-altijd-uit-scandinavie-a1601916",
+   "intro": "Scandinavische landen hebben het imago van emancipatieparadijs. Is dat terecht? Waarom kan daar wél wat in Nederland zoveel moeizamer gaat?",
+   "date": "4 mei 2018 analyse"
+  },
+  {
+   "name": "Loonkloof tussen top en gewone werknemer neemt iets toe",
+   "url": "https://www.nrc.nl/nieuws/2018/04/30/loonkloof-tussen-top-en-gewone-werknemer-neemt-iets-toe-a1601333",
+   "intro": "In 2017 was het bruto jaarsalaris van de top van de grootste bedrijven 6,2 keer zo hoog als het inkomen van een gemiddelde werknemer bij deze ondernemingen.",
+   "date": "30 april 2018"
+  },
+  {
+   "name": "Meer risico op kindermishandeling in grote steden",
+   "url": "https://www.nrc.nl/nieuws/2018/04/26/meer-risico-op-kindermishandeling-in-grote-steden-a1601053",
+   "intro": "De Raad voor de Kinderbescherming heeft de risico’s op kindermishandeling per gemeente in kaart gebracht.",
+   "date": "26 april 2018 nieuwsbericht"
+  },
+  {
+   "name": "Historicus Walter Scheidel: 'De mens doet te weinig tegen ongelijkheid'",
+   "url": "https://www.nrc.nl/nieuws/2018/04/26/de-mens-doet-te-weinig-tegen-ongelijkheid-a1600944",
+   "intro": "De economische ongelijkheid groeit, standaard. Alleen pandemieën of grote oorlogen onderbreken dat tijdelijk, stelt historicus Walter Scheidel.",
+   "date": "26 april 2018 interview"
+  },
+  {
+   "name": "‘Mijn studenten helpen Chinese boeren graag om meer tarwe en rijst te oogsten’",
+   "url": "https://www.nrc.nl/nieuws/2018/04/23/mijn-studenten-helpen-chinese-boeren-graag-om-meer-tarwe-en-rijst-te-oogsten-a1600492",
+   "intro": "De Chinese landbouw moet efficiënter worden. Daarom laat Fusuo Zhang studenten twee jaar tussen de boeren wonen om hen te helpen.",
+   "date": "23 april 2018 interview"
+  },
+  {
+   "name": "Hoe schuldig is de vrouw die in het donker iemand doodreed?",
+   "url": "https://www.nrc.nl/nieuws/2018/04/20/wat-moet-ik-doen-wat-moet-ik-doen-a1600207",
+   "intro": "Niemand rijdt doorgaans een ander met opzet aan. Maar wanneer is er sprake van ‘aanmerkelijke onvoorzichtigheid’?",
+   "date": "20 april 2018 achtergrond"
+  },
+  {
+   "name": "‘Van alle mensen die in de armoede zitten is éénderde zzp’er’",
+   "url": "https://www.nrc.nl/nieuws/2018/04/16/van-alle-mensen-in-de-armoede-is-een-derde-zzper-a1599556",
+   "intro": "Dat zei Michel Eggermont, voormalig raadslid voor de SP in Utrecht bij ZZPTeeVee",
+   "date": "16 april 2018 rubriek"
+  },
+  {
+   "name": "Laat rijkeluiskinderen meer collegegeld betalen",
+   "url": "https://www.nrc.nl/nieuws/2018/04/14/laat-rijkeluiskinderen-meer-collegegeld-betalen-a1599403",
+   "intro": "Zie de universiteit als een exportproduct, schrijft Coen Teulings . Onorthodoxe maatregelen zijn volgens hem nodig om de universiteit betaalbaar te houden.",
+   "date": "14 april 2018 opinie"
+  },
+  {
+   "name": "Bovenmodaal? Probeer toch je bijzondere zorgkosten terug te krijgen",
+   "url": "https://www.nrc.nl/nieuws/2018/04/13/bovenmodaal-probeer-toch-je-bijzondere-zorgkosten-terug-te-krijgen-a1599374",
+   "intro": "Het is weer tijd voor de belastingaangifte. Kom je in aanmerking voor aftrek van bijzondere zorgkosten als je bovenmodaal verdient?",
+   "date": "13 april 2018 rubriek"
+  },
+  {
+   "name": "‘Ik dacht: laag niveau, weinig uitdaging’",
+   "url": "https://www.nrc.nl/nieuws/2018/04/06/ik-dacht-laag-niveau-weinig-uitdaging-a1598480",
+   "intro": "Veel ouders moeten er niet aan denken dat hun kind naar het vmbo gaat. Hoe is dat als hun kind er eenmaal op zit? „Zo’n school heeft weinig tools om maatwerk te leveren.”",
+   "date": "6 april 2018 achtergrond"
+  },
+  {
+   "name": "Techmiljonair gunt iedereen basisinkomen",
+   "url": "https://www.nrc.nl/nieuws/2018/04/06/techmiljonair-gunt-iedereen-basisinkomen-a1598462",
+   "intro": "Chris Hughes werd als mede-oprichter van Facebook op jonge leeftijd rijk. Nu maakt hij zich hard voor invoering van een basisinkomen.",
+   "date": "6 april 2018 recensie"
+  },
+  {
+   "name": "De supermarkt moet het van de Duitsers hebben",
+   "url": "https://www.nrc.nl/nieuws/2018/04/05/de-supermarkt-moet-het-van-de-duitsers-hebben-a1598372",
+   "intro": "Krimp bedreigt de gemeente Roerdalen. Bewoners van het dorp Vlodrop wachten niet op de gemeentelijke gelukscoördinator. Ze pakken samen aan.",
+   "date": "5 april 2018 beeldverhaal"
+  },
+  {
+   "name": "Een Tesla rijden is straks stukken duurder",
+   "url": "https://www.nrc.nl/nieuws/2018/04/05/een-tesla-rijden-is-straks-stukken-duurder-a1598228",
+   "intro": "De nieuwe belastingregels pakken ongunstig uit voor nieuwe én oude Tesla’s. Straks verdwijnen de auto’s, inclusief subsidies, naar het buitenland.",
+   "date": "5 april 2018 achtergrond"
+  },
+  {
+   "name": "Laaggeletterdheid kost samenleving een miljard",
+   "url": "https://www.nrc.nl/nieuws/2018/04/03/laaggeletterdheid-kost-samenleving-een-miljard-a1598044",
+   "intro": "2,5 miljoen laaggeletterden in Nederland kosten de samenleving extra geld aan uitkeringen en zorg. En zelf lopen ze ook ruim 570 miljoen euro aan inkomsten mis.",
+   "date": "3 april 2018 achtergrond"
+  },
+  {
+   "name": "Vakbondsman die streed tegen tweedeling",
+   "url": "https://www.nrc.nl/nieuws/2018/03/26/vakbondsman-die-streed-tegen-tweedeling-a1597039",
+   "intro": "Cees Schelling voerde in de jaren zeventig en tachtig de Voedingsbond FNV aan. Hij was een pleitbezorger voor het basisinkomen.",
+   "date": "26 maart 2018 nieuwsbericht"
+  },
+  {
+   "name": "Markante vakbondsvoorzitter Cees Schelling (91) overleden",
+   "url": "https://www.nrc.nl/nieuws/2018/03/25/markante-vakbondsvoorzitter-cees-schelling-91-overleden-a1596993",
+   "intro": "Schelling was van 1972 tot 1984 voorzitter van de Voedingsbond FNV. Hij was pleitbezorger voor het basisinkomen.",
+   "date": "25 maart 2018"
+  },
+  {
+   "name": "Wraak op de betere kringen",
+   "url": "https://www.nrc.nl/nieuws/2018/03/22/wraak-op-de-betere-kringen-a1596752",
+   "intro": "Het privéleven van deze schrijfster is even boeiend als haar nog altijd zeer leesbare en vermakelijke fictie. Dat blijkt uit de biografie van Aukje Holtrop.",
+   "date": "22 maart 2018 recensie"
+  },
+  {
+   "name": "Schone energie creëert vooral banen voor technici",
+   "url": "https://www.nrc.nl/nieuws/2018/03/21/schone-energie-creeert-vooral-banen-voor-technici-a1596506",
+   "intro": "Netto geeft de transitie naar schone energie in 2030 werk voor ruim 100.000 mensen, becijferde het PBL. Maar dat zijn vooral vacatures voor ingenieurs.",
+   "date": "21 maart 2018 nieuwsbericht"
+  },
+  {
+   "name": "Teruglezen: Lokaal en GroenLinks winnen, ‘Nee’-stemmers hebben nipt de overhand",
+   "url": "https://www.nrc.nl/nieuws/2018/03/21/nederland-naar-stembus-voor-gemeenteraad-en-referendum-a1596363",
+   "intro": "Nederland stemt voor de gemeenteraad en een referendum over de nieuwe inlichtingenwet. Volg alle ontwikkelingen in ons slowblog.",
+   "date": "21 maart 2018 slowblog"
+  },
+  {
+   "name": "Teruglezen: Het NOS-debat en het debat over inlichtingenwet",
+   "url": "https://www.nrc.nl/nieuws/2018/03/20/live-het-slotdebat-tussen-de-landelijke-partijleiders-met-factchecks-a1596409",
+   "intro": "NRC doet live verslag van het slotdebat van de NOS, inclusief live factchecks van de beweringen van de partijleiders.",
+   "date": "20 maart 2018 liveblog"
+  },
+  {
+   "name": "Komt de kiezer wel voor een festival, iglo of stemtram?",
+   "url": "https://www.nrc.nl/nieuws/2018/03/20/komt-de-kiezer-wel-voor-een-festival-iglo-of-stemtram-a1596301",
+   "intro": "Steeds minder mensen stemmen bij de gemeenteraadsverkiezingen. Ondanks ludieke locaties, acties en brieven.",
+   "date": "20 maart 2018 achtergrond"
+  },
+  {
+   "name": "‘Een verzekering? Je leeft op goed geluk’",
+   "url": "https://www.nrc.nl/nieuws/2018/03/16/een-verzekering-je-leeft-op-goed-geluk-a1595996",
+   "intro": "Wie profiteert er van zzp’er zijn, en wie niet? NRC spreekt met de onder- en bovenkant van de markt voor zelfstandigen.",
+   "date": "16 maart 2018 achtergrond"
+  },
+  {
+   "name": "De zzp’er: ondernemer of schijnzelfstandige?",
+   "url": "https://www.nrc.nl/nieuws/2018/03/16/ondernemer-of-schijn-zelfstandige-a1595976",
+   "intro": "Het kabinet maakt zich zorgen over de snelle stijging van het aantal zzp’ers in Nederland. Waar komt die groei vandaan? En wat weten we over deze gevarieerde groep?",
+   "date": "16 maart 2018 achtergrond"
+  },
+  {
+   "name": "Zij werden ondernemer na een leven in loondienst",
+   "url": "https://www.nrc.nl/nieuws/2018/03/16/zij-werden-ondernemer-na-een-leven-in-loondienst-a1595972",
+   "intro": "Het aantal vijfenzestigplussers dat bijklust als zzp’er stijgt. Waarom werken zij door na hun pensioen?",
+   "date": "16 maart 2018 achtergrond"
+  },
+  {
+   "name": "Maandenlange chaos in het verschiet op het Franse spoor",
+   "url": "https://www.nrc.nl/nieuws/2018/03/15/maandenlange-chaos-in-het-verschiet-op-het-franse-spoor-a1595912",
+   "intro": "De Franse regering wil spoorbedrijf SNCF hervormen. Werknemers gaan uit protest elke week twee dagen staken.",
+   "date": "15 maart 2018 nieuwsbericht"
+  },
+  {
+   "name": "Ben je als zzp’er écht beter af?",
+   "url": "https://www.nrc.nl/nieuws/2018/03/15/ben-je-als-zzper-echt-beter-af-a1595856",
+   "intro": "Hoe aantrekkelijk zijn al die belastingvoordelen voor zzp’ers eigenlijk? NRC berekende hoeveel belasting zelfstandigen betalen in vergelijking met werknemers die hetzelfde…",
+   "date": "15 maart 2018 achtergrond"
+  }
+ ]
+}

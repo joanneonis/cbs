@@ -1,0 +1,16 @@
+// Colors
+$plyr-color-main: theme-color(primary);
+$plyr-color-gunmetal: theme-color(primary-500);
+
+// Controls
+$plyr-control-radius: 0;
+$plyr-video-control-color: rgba(theme-color(light), .7);
+$plyr-video-control-color-hover: theme-color(light);
+$plyr-video-control-bg-hover: transparent;
+
+// Type
+$plyr-font-family: $font-family-sans-serif;
+$plyr-font-size-time: 12px;
+$plyr-font-weight-regular: normal;
+$plyr-font-weight-bold: bold;
+$plyr-font-smoothing: true;
